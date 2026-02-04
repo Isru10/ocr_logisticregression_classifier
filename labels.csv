@@ -1,0 +1,4 @@
+submission_id,doc_files,label
+pitch_001,tin.png|trade_license.png|financial_statement.png,1
+pitch_002,tin2.png|trade_license2.png|financial_statement2.png,0
+pitch_003,tin3.png|trade_license3.png|financial_statement3.png,1
